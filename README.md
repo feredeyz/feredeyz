@@ -24,7 +24,7 @@
 ### 🌱 About Me:
 - 🔭 Currently working on: [Arteria Social Network](https://github.com/feredeyz/arteria.git)
 - 🚀 Learning: Advanced features of the Flask framework.
-- 🤝 Open to collaboration on: Leetcode-type projects or innovative web apps.
+- 🤝 Now participate in: Leetcode-type project.
 - 📫 How to reach me: **k.dmitriev1@yandex.ru**
 - 😄 Pronouns: **he/him**
 - 🎮 Fun fact: I enjoy playing video games with friends in my free time.
