@@ -2,10 +2,6 @@
   <i>feredeyz</i>
 </h1>
 
-<p align="center">
-  Beginner Programmer
-</p>
-
 <div align="center">
   <h3>
     🌟 Welcome to my profile! Here's what I focus on as a developer: 🌟
