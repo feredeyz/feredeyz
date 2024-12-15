@@ -4,8 +4,13 @@
 
 <div align="center">
   <h3>
-    🌟 Welcome to my profile! Here's what I focus on as a developer: 🌟
-  </h3>
+    🌟 Welcome to my profile!🌟
+  </h3> 
+    <h3>
+      Here's what I focus on as a developer:
+    </h3>
+    
+  
   
   <ul>
     <li><b>Python:</b> Writing small, efficient scripts.</li>
@@ -18,8 +23,8 @@
 ---
 
 ### 🌱 About Me:
-- 🔭 Currently working on: [Arteria Social Network](https://github.com/feredeyz/arteria.git)
-- 🚀 Learning: Advanced features of the Flask framework.
+- 🔭 Currently working on: [EduLab Platform]((https://github.com/feredeyz/edulab.git))
+- 🚀 Learning: Advanced features of the Flask framework, basics of ReactJS Framework.
 - 🤝 Now participate in: Leetcode-type project.
 - 📫 How to reach me: **k.dmitriev1@yandex.ru**
 - 😄 Pronouns: **he/him**
