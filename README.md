@@ -23,7 +23,7 @@
 ---
 
 ### 🌱 About Me:
-- 🔭 Currently working on: [EduLab Platform](https://github.com/feredeyz/edulab.git)
+- 🔭 Currently working on: [Persona Platform](https://github.com/feredeyz/persona.git)
 - 🚀 Learning: Advanced features of the Flask framework, basics of ReactJS Framework.
 - 🤝 Now participate in: Leetcode-type project.
 - 📫 How to reach me: **k.dmitriev1@yandex.ru**
