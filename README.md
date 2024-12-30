@@ -17,6 +17,7 @@
     <li><b>Flask:</b> Developing backends for my web applications.</li>
     <li><b>pyTelegramBotApi:</b> Building functional Telegram bots.</li>
     <li><b>HTML, CSS, JS:</b> Creating visually appealing frontends for my projects.</li>
+    <li><b>ReactJS:</b> Advanced visual for my sites.</li>
   </ul>
 </div>
 
