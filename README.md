@@ -14,19 +14,18 @@
   
   <ul>
     <li><b>Python:</b> Writing small, efficient scripts.</li>
-    <li><b>Flask:</b> Developing backends for my web applications.</li>
-    <li><b>pyTelegramBotApi:</b> Building functional Telegram bots.</li>
-    <li><b>HTML, CSS, JS:</b> Creating visually appealing frontends for my projects.</li>
-    <li><b>ReactJS:</b> Advanced visual for my sites.</li>
+    <li><b>Java:</b> Basics of programming with this language.</li>
+    <li><b>ReactJS + TailwindCSS + TS:</b> Writing Frontend for websites.</li>
+    <li><b>Django:</b> Writing Backend for my Pet projects</li>
   </ul>
 </div>
 
 ---
 
 ### 🌱 About Me:
-- 🔭 Currently working on: [Persona Platform](https://github.com/feredeyz/persona.git)
-- 🚀 Learning: Advanced features of the Flask framework, basics of ReactJS Framework.
-- 🤝 Now participate in: Leetcode-type project.
+- 🔭 Currently working on: [Java Chat](https://github.com/feredeyz/java-chat.git)
+- 🚀 Learning: Advanced features of Django and ReactJS Framework.
+- 🤝 Now participate in: [Team LoC])(https://t.me/teamloc).
 - 📫 How to reach me: **k.dmitriev1@yandex.ru**
 - 😄 Pronouns: **he/him**
 - 🎮 Fun fact: I enjoy playing video games with friends in my free time.
